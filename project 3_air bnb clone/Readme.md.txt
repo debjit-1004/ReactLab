@@ -1,0 +1,1 @@
+#h2 move the images to the public folder while using in local machine
